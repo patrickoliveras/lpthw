@@ -1,6 +1,6 @@
 from sys import argv
 
-script, user_name = argv
+script, user_name, nickname = argv
 prompt = '$$$ '
 
 print(f"Hi {user_name}, I'm the {script} script.")
@@ -8,7 +8,7 @@ print(f"I'd like to ask you a few questions.")
 print(f"Do you like me {user_name}?")
 likes = input(prompt)
 
-print(f"Where do you live {user_name}?")
+print(f"Where do you live {user_name}, AKA {nickname}?")
 lives = input(prompt)
 
 print("What kind of computer do you have?")
