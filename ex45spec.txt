@@ -1,0 +1,65 @@
+You are a junior high student and your pops don't send you lunch money. You have
+posh classmates that are willing to pay for you to go buy their lunch, all of them pay upfront for cost.
+
+There are many places within the school where you can buy the same kind of food,
+although there are two places outside the school that where you are at risk of
+getting in trouble due to sneaking out.
+
+Going outside can take a couple more turns but prices are much much lower
+
+You have 30 minutes (60 turns) to get as much money as you can, before recess is over.
+If you get caught outside school grounds you'll get a 10 turn penalty in the
+principals office.
+
+The more food you're carrying the more you risk spilling or dropping something, and you will have to pay it back if it happens. Try not to carry more than 4 deliveries at a time,
+although you can still take more orders without a problem.
+
+Sometimes they will come looking for you, others you'll have to look for them.
+Classmates can be Rich(0.2), Mid(0.1) or Poor(0.05) and will tip you accordingly.
+
+While waiting for an order you can't leave the scene.
+
+Delivering also takes a turn.
+
+Going between places takes time as well.
+You can pick what to buy at each place.
+
+Your providers are:
+1. Doña María                                    4  [INSIDE]
+2. School Cafeteria                              6  [INSIDE]
+3. Posh McGuire's Sautées and Coffee             1  [INSIDE]
+4. Jim's over the fence food friends             6  [OUTSIDE]
+5. Tim's house (his parents give you that stuff) 10 [OUTSIDE]
+
+Food:                                           BASE PRICE
+a) Sandwich                                     5
+b) Juice box                                    2
+c) Warm milk                                    2
+d) Muffin                                       4
+e) Chips                                        3
+f) Soda                                         2
+
+Price table
+.    |  1       2       3       4       5
+-----+------------------------------------
+a    |  5       4       7       2       0
+b    |  2       1.5     3       0.5     0
+c    |  2       1.5     3       0.5     0
+d    |  4       3       6       2       0
+e    |  3       2       5       0.5     0
+f    |  2       1.5     3       0.5     0
+
+Buyers:
+- Sandy
+- Josh
+- Gus
+- Katy
+- Karla
+- Antonio
+- Richy
+- Stimpy
+
+Outside spotters:
+- Guard Stan
+- Misses Catson
+- A man with a dog
